@@ -1,1 +1,1 @@
-# Mobilna app example
+# mobile app example
